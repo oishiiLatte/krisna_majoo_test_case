@@ -1,6 +1,6 @@
 ## Krisna Adi Wicaksono - Majoo Test Case
 
-nama: Krisna Adi Wicaksono
+nama: Krisna Adi Wicaksono <br />
 Email: krisna.obbi@gmail.com
 
-Hasil jadi dapat diakses melalui [http://todoapp.obbiy.com/](http://todoapp.obbiy.com/)
+Hasil jadi dapat diakses melalui <a href="http://todoapp.obbiy.com/" target="_blank">http://todoapp.obbiy.com/</a>
